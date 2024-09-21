@@ -1,4 +1,4 @@
-### Olá! Eu sou a Hagatha Silva 👋
+### Olá! Eu sou Hagatha Silva 👋
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://hagatharibeiro03@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hagatha.ribeiro.16)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hagatha-byatriz-ribeiro-da-silva/)
